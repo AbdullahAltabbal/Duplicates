@@ -1,0 +1,13 @@
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.exe
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.deps.json
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.runtimeconfig.json
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.runtimeconfig.dev.json
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.dll
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\bin\Debug\netcoreapp3.1\Duplicates.pdb
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.csprojAssemblyReference.cache
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.AssemblyInfoInputs.cache
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.AssemblyInfo.cs
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.dll
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.pdb
+C:\Users\xlp1a\source\repos\Duplicates\Duplicates\obj\Debug\netcoreapp3.1\Duplicates.genruntimeconfig.cache
